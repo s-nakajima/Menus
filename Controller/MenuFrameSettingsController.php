@@ -12,7 +12,7 @@
 App::uses('MenusAppController', 'Menus.Controller');
 
 /**
- * MenuFrameSettings Controller
+ * MenuFrameSettings Controller2
  *
  * @author Shohei Nakajima <nakajimashouhei@gmail.com>
  * @package NetCommons\Menus\Controller
